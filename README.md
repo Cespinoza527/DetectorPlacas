@@ -42,3 +42,4 @@
 #### eas build:configure
 #### eas build -p android --profile preview
 
+<img width="1916" height="826" alt="image" src="https://github.com/user-attachments/assets/d46ce99b-a126-4789-8160-7784d8445b16" />
