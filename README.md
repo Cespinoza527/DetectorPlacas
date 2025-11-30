@@ -1,5 +1,6 @@
 # Proyecto detector de placas
 # Camilo Andres Espinoza Gualdron - U00188191 
+# Omar Francisco Vasquez mora - U00189735
 
 ## El primer paso para la creación del proyecto fue crear una instancia en AWS EC2 con la llave ya generada .pem y la ip publica que nos da el servidor, conectandonos desde cmd en la ubicacion donde tenemos la llave en nuestro equipo
 
