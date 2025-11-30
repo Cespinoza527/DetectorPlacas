@@ -1,5 +1,5 @@
 # Proyecto detector de placas
-# Camilo Andres Espinoza Gualdron
+# Camilo Andres Espinoza Gualdron - U00188191 
 
 ## El primer paso para la creación del proyecto fue crear una instancia en AWS EC2 con la llave ya generada .pem y la ip publica que nos da el servidor, conectandonos desde cmd en la ubicacion donde tenemos la llave en nuestro equipo
 
@@ -43,3 +43,5 @@
 #### eas build -p android --profile preview
 
 <img width="1916" height="826" alt="image" src="https://github.com/user-attachments/assets/d46ce99b-a126-4789-8160-7784d8445b16" />
+
+![imagenplacas](https://github.com/user-attachments/assets/67235cdc-08aa-4d25-a5db-ecefff3670bc)
